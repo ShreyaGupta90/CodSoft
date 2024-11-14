@@ -2,7 +2,7 @@
 
 This repository contains Python projects developed during the CodSoft internship program. Each project demonstrates practical programming skills and uses Python's built-in libraries to create useful applications.
 
-## Projects 
+## Projects
 
 ### 1. Password Generator
 A Python program that generates random, strong passwords using the random and string modules. The user can specify:
