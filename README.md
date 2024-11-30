@@ -34,4 +34,4 @@ To use any of these programs, clone this repository and run the individual Pytho
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 python project_name.py
-hlo
+hl
