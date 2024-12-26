@@ -1,4 +1,4 @@
-jaja# CodSoft
+jja# CodSoft
 
 This repository contains Python projects developed during the CodSoft internship program. Each project demonstrates practical programming skills and uses Python's built-in libraries to create useful applications.
 
