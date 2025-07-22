@@ -34,3 +34,14 @@ To use any of these programs, clone this repository and run the individual Pytho
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 python project_name.py
+
+## 📩 Contact & Contribution
+
+For contributions, feedback, or collaborations, feel free to reach out:  
+- **Author:** Shreya Gupta
+- **Email:** shreyagupta119809@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
+
+## 🔖 Tags  
+#DataScience #Python #TVShows #APIDatasets #MachineLearning #OpenData #DataVisualization  
+
