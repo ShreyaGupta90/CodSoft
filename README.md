@@ -43,6 +43,3 @@ For contributions, feedback, or collaborations, feel free to reach out:
 - **Email:** shreyagupta119809@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
 
-## 🔖 Tags  
-#DataScience #Python #TVShows #APIDatasets #MachineLearning #OpenData #DataVisualization  
-
